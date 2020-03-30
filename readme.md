@@ -1,5 +1,5 @@
 # Security Threats and Analysis
-> Real-time analysis of information security threats
+> Real-time analysis of information security vulnerabilities
 
 | Threat | Name  |
 |------|---|
